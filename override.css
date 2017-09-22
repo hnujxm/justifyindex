@@ -1,0 +1,7 @@
+.edui-wx .edui-for-justifyindex .edui-icon {
+    background-position: 0px -1079px;//替换为自己的图标,toobar上的图标
+}
+
+.edui-wx .edui-for-justifyindex .edui-menuitem .edui-icon {
+    background: none;
+}
